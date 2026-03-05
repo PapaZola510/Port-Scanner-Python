@@ -6,16 +6,13 @@ basic network monitoring/reconnaissance
 script attempts to connect to the ports and reports back what ports open
 
 ## Features:
--Scans the common used ports
--accepts domains and IP addresses
--Used python sockets to attempt connections
--displays the open ports after scanning
+- Scans the common used ports
+- Accepts domains and IP addresses
+- Used python sockets to attempt connections
+- Displays the open ports after scanning
 
-## code to run: " py port_scanner.py <target>"
-run in terminal vscode
-
-
-
+## code to run: 
+py port_scanner.py <target> (run in terminal vscode)
 
 ## example of output:
 
