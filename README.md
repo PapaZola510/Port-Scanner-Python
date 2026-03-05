@@ -2,8 +2,8 @@
 
 Checks common ports on a targetted host, python based code
 
-basic network monitoring/reconnaissance 
-script attempts to connect to the ports and reports back what ports open
+Basic network monitoring/reconnaissance 
+Script attempts to connect to the ports and reports back what ports open
 
 ## Features:
 - Scans the common used ports
