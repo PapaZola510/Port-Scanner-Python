@@ -1,23 +1,23 @@
-Port Scanner using Python 
+# Port Scanner using Python 
 
 Checks common ports on a targetted host, python based code
 
 basic network monitoring/reconnaissance 
 script attempts to connect to the ports and reports back what ports open
 
-Features:
+## Features:
 -Scans the common used ports
 -accepts domains and IP addresses
 -Used python sockets to attempt connections
 -displays the open ports after scanning
 
-code to run: " py port_scanner.py <target>"
+## code to run: " py port_scanner.py <target>"
 run in terminal vscode
 
 
 
 
-example of output:
+## example of output:
 
 PS C:\Users\Local Admin\Desktop\CySe> py port_scanner.py google.com
 
